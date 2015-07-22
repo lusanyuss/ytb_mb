@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_FacebookSDK/unspecified/res/values-hdpi/values-hdpi.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_picker_divider_width">1px</dimen>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values-hdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="edit_h">112.5dp</dimen>
+    <dimen name="video_h">180dp</dimen>
+</resources>

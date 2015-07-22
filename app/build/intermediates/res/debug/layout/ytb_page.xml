@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <me.maxwin.view.XListView
+        android:id="@+id/listView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#F2F2F2"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+        android:scrollbarThumbVertical="@drawable/scroll_bar"></me.maxwin.view.XListView>
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:indeterminateBehavior="repeat"
+        android:indeterminateDrawable="@drawable/prog"
+        android:indeterminateDuration="3500"
+        android:indeterminateOnly="true"
+        android:maxHeight="48dip"
+        android:maxWidth="48dip"
+        android:minHeight="48dip"
+        android:minWidth="48dip" />
+
+</FrameLayout><!-- From: file:/D:/58/ytb_mb/app/src/main/res/layout/ytb_page.xml -->

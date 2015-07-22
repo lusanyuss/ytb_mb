@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- slidemenu -->
+    <dimen name="video_h">180dp</dimen>
+
+    <dimen name="edit_h">112.5dp</dimen>
+
+</resources>

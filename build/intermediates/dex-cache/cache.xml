@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\58\ytb_mb\app\build\intermediates\exploded-aar\ytb_mb\ytb_slidingmenu_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="09841ee59a04a3fa9454a0fa49de946aaa042bc9">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\classes-820431bd3315f57122d0b5669a346abe48dfc847.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\ormlite-android-4.43.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8fcbe57e9d2f9bc1a7170fe0805161185df36a4a">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\ormlite-android-4.43-a4934805a94d737bc63b488bccc641a66e1338db.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\google-oauth-client-jetty-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="0edd5feffead32ca91562b2b1c126f058f5978f1">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\google-oauth-client-jetty-1.18.0-rc-4712bfa763357456d2f84551e0d0a11816c19fb4.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\google-api-services-youtube-v3-rev107-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="3f2d9a3379791c9350304926aa2b77e4da5f1a58">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\google-api-services-youtube-v3-rev107-1.18.0-rc-3db944776597a7c57415d1b9235d6b4208604544.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\google-oauth-client-java6-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b704ff80c682dab0f64a784eaf1a9ed7d58b531d">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\google-oauth-client-java6-1.18.0-rc-b3787284e0eb5486a56191f936c932a067b4e4ad.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-51f9f082591cc0ecf77f230d5b309c755434a2d9.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\umeng-update-v2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="7bfd85d65a43fcf2cd343f11c13ad29bc3965a1f">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\umeng-update-v2.5.0-25f84450eec4faca0b50133e8e4a1bed08186509.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\google-http-client-jackson2-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="5cc2dc4e3ba7f626c1a9db4fc5d2460c22275474">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.18.0-rc-36db11b50ac0655026e3a5aafc952037f6de6a0e.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\umeng-analytics-v5.4.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="cdbe5b692334ae8452fa5aa9ba2982fef4a6fff2">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.4.1-5585ba4e3c16d61d3556115d0059c708f307cb46.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\google-oauth-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="030281a66559f60a491748974ac17cec3483b873">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.18.0-rc-42fe134c0b180cf5320017804c0bea4b25312fce.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\fastjson-1.1.45.android.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4d5140a0c8f5e4d0f263cac44dbac1019a908474">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\fastjson-1.1.45.android-182d98f3dfb5b6de5a213b4a8ffbe1fbc2d2cae2.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\ormlite-core-4.43.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b6a73dff02ae2530bb879f5e2bb754da8915696c">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\ormlite-core-4.43-8d292893a03e59ee447f4e33be182ef63e67cf79.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\classes-b61903597b8379384f8c30d21d94afee4c6093b7.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-9aa2004e612af816ad79d8b52a9046ec2e6646d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-03e25c6b3178abc8ecb48b05be1f281aa0724b29.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-a66ac123f34682bf7bb8a71b0460b942d0eb478c.jar" />
+    </item>
+    <item
+        jar="C:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-f90f321111100430706673cd21a6cfa57209ce6f.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-6a13054e350d19019f17de99e6c5ce5aa55ab38c.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\google-api-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="45b0d00b78197d8a3047751443c09538117d188b">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\google-api-client-1.18.0-rc-b0a99095491952b8d598c210248d96bdcc60b7a6.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\classes-bc903830408e53513ef9f4c3bf40199ccafa79a9.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\build\intermediates\exploded-aar\ytb_mb\ytb_FacebookSDK\unspecified\jars\libs\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-f23416e3964d55658f220a449310926e610a4966.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\libs\google-http-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="880ad30d2b249a7591c195c2392646f1b146c139">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\google-http-client-1.18.0-rc-2875a09fc81ae41ca786c05716955a95bca49caf.jar" />
+    </item>
+    <item
+        jar="D:\58\ytb_mb\app\build\intermediates\exploded-aar\ytb_mb\ytb_FacebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6402c959e63e7c953ea5f0f2489a47c15375dcbf">
+        <dex dex="D:\58\ytb_mb\app\build\intermediates\pre-dexed\debug\classes-9189c747ea3e7f083963c8cf6e496ffa66312304.jar" />
+    </item>
+
+</items>

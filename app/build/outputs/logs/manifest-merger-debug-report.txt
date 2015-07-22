@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:support-v4:21.0.0:15:5
+MERGED from com.google.android.gms:play-services:6.5.87:18:5
+MERGED from com.android.support:support-v4:21.0.0:15:5
+MERGED from ytb_mb:ytb_slidingmenu_library:unspecified:7:5
+MERGED from com.android.support:support-v4:21.0.0:15:5
+MERGED from ytb_mb:ytb_FacebookSDK:unspecified:20:5
+MERGED from com.android.support:support-v4:21.0.0:15:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:11:5
+	android:name
+		ADDED from AndroidManifest.xml:11:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from AndroidManifest.xml:16:5
+	android:name
+		ADDED from AndroidManifest.xml:16:22
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:17:5
+	android:name
+		ADDED from AndroidManifest.xml:17:22
+uses-permission#android.permission.FLASHLIGHT
+ADDED from AndroidManifest.xml:18:5
+	android:name
+		ADDED from AndroidManifest.xml:18:22
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:19:5
+	android:name
+		ADDED from AndroidManifest.xml:19:22
+application
+ADDED from AndroidManifest.xml:21:5
+MERGED from com.android.support:support-v4:21.0.0:16:5
+MERGED from com.google.android.gms:play-services:6.5.87:20:5
+MERGED from com.android.support:support-v4:21.0.0:16:5
+MERGED from com.android.support:support-v4:21.0.0:16:5
+MERGED from ytb_mb:ytb_FacebookSDK:unspecified:24:5
+MERGED from com.android.support:support-v4:21.0.0:16:5
+	android:label
+		ADDED from AndroidManifest.xml:25:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:23:9
+	android:icon
+		ADDED from AndroidManifest.xml:24:9
+	android:name
+		ADDED from AndroidManifest.xml:22:9
+activity#com.yuliu.activity.WelcomeActivity
+ADDED from AndroidManifest.xml:26:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:30:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:28:13
+	android:theme
+		ADDED from AndroidManifest.xml:31:13
+	android:name
+		ADDED from AndroidManifest.xml:27:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:29:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:32:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:33:17
+	android:name
+		ADDED from AndroidManifest.xml:33:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:35:17
+	android:name
+		ADDED from AndroidManifest.xml:35:27
+activity#com.yuliu.activity.HomeActivity
+ADDED from AndroidManifest.xml:38:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:42:13
+	android:label
+		ADDED from AndroidManifest.xml:41:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:40:13
+	android:theme
+		ADDED from AndroidManifest.xml:43:13
+	android:name
+		ADDED from AndroidManifest.xml:39:13
+activity#com.google.android.gms.ads.AdActivity
+ADDED from AndroidManifest.xml:44:9
+	android:configChanges
+		ADDED from AndroidManifest.xml:46:13
+	android:theme
+		ADDED from AndroidManifest.xml:47:13
+	android:name
+		ADDED from AndroidManifest.xml:45:13
+meta-data#com.google.android.gms.version
+ADDED from AndroidManifest.xml:49:9
+MERGED from com.google.android.gms:play-services:6.5.87:21:9
+	android:name
+		ADDED from AndroidManifest.xml:50:13
+	android:value
+		ADDED from AndroidManifest.xml:51:13
+service#com.umeng.update.net.DownloadingService
+ADDED from AndroidManifest.xml:53:9
+	android:process
+		ADDED from AndroidManifest.xml:55:13
+	android:name
+		ADDED from AndroidManifest.xml:54:13
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from AndroidManifest.xml:57:9
+	android:theme
+		ADDED from AndroidManifest.xml:59:13
+	android:name
+		ADDED from AndroidManifest.xml:58:13
+uses-library#android.test.runner
+ADDED from AndroidManifest.xml:61:9
+	android:name
+		ADDED from AndroidManifest.xml:61:23
+receiver#com.yuliu.dialog.SwitchReceiver
+ADDED from AndroidManifest.xml:63:9
+	android:name
+		ADDED from AndroidManifest.xml:63:19
+intent-filter#com.baidu.FreeYoutubeVideo.language
+ADDED from AndroidManifest.xml:64:13
+action#com.baidu.FreeYoutubeVideo.language
+ADDED from AndroidManifest.xml:65:17
+	android:name
+		ADDED from AndroidManifest.xml:65:25
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from AndroidManifest.xml:69:9
+	android:name
+		ADDED from AndroidManifest.xml:70:13
+	android:value
+		ADDED from AndroidManifest.xml:71:13
+activity#com.facebook.LoginActivity
+ADDED from AndroidManifest.xml:73:9
+	android:label
+		ADDED from AndroidManifest.xml:75:13
+	android:theme
+		ADDED from AndroidManifest.xml:76:13
+	android:name
+		ADDED from AndroidManifest.xml:74:13
+receiver#com.yuliu.broadcast.MyFacebookBroadcastReceiver
+ADDED from AndroidManifest.xml:84:9
+	android:name
+		ADDED from AndroidManifest.xml:84:19
+intent-filter#com.facebook.platform.AppCallResultBroadcast
+ADDED from AndroidManifest.xml:85:13
+action#com.facebook.platform.AppCallResultBroadcast
+ADDED from AndroidManifest.xml:86:17
+	android:name
+		ADDED from AndroidManifest.xml:86:25
+meta-data#UMENG_APPKEY
+ADDED from AndroidManifest.xml:90:9
+	android:name
+		ADDED from AndroidManifest.xml:91:13
+	android:value
+		ADDED from AndroidManifest.xml:92:13
+meta-data#UMENG_CHANNEL
+ADDED from AndroidManifest.xml:94:9
+	android:name
+		ADDED from AndroidManifest.xml:95:13
+	android:value
+		ADDED from AndroidManifest.xml:96:13

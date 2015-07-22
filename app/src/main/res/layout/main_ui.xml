@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/shuping"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/bar_title"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:background="@color/app_red">
+
+                <ImageView
+                    android:id="@+id/menu_btn"
+                    android:layout_width="44dp"
+                    android:layout_height="44dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:padding="8dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/menu" />
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/menu_btn"
+                    android:fontFamily="sans-serif-light"
+                    android:text="@string/app_name"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:id="@+id/pailie"
+                    android:layout_width="44dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:padding="8dp"
+                    android:src="@drawable/pailie_selector" />
+            </RelativeLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/bar_title">
+
+                <RelativeLayout
+                    android:id="@+id/main_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.shizhefei.view.indicator.ScrollIndicatorView
+                        android:id="@+id/guide_indicator"
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@drawable/title_line"></com.shizhefei.view.indicator.ScrollIndicatorView>
+
+                    <FrameLayout
+                        android:id="@+id/f1"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/guide_indicator">
+
+                        <android.support.v4.view.ViewPager
+                            android:id="@+id/guide_viewPager"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_below="@+id/guide_indicator"></android.support.v4.view.ViewPager>
+
+                        <com.google.android.gms.ads.AdView
+                            android:id="@+id/adView_view"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_gravity="top"
+                            android:background="#00ffffff"
+                            ads:adSize="SMART_BANNER"
+                            ads:adUnitId="@string/PLAY_VIEW_AD_ID" />
+                    </FrameLayout>
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/history_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <me.maxwin.view.XListView
+                        android:id="@+id/history_listView1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="#F2F2F2"
+                        android:cacheColorHint="#00000000"
+                        android:divider="@null"
+                        android:scrollbarThumbVertical="@drawable/scroll_bar"></me.maxwin.view.XListView>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hengping"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical"></LinearLayout>
+    </LinearLayout>
+
+    <com.github.pedrovgs.DraggableView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:draggable_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/draggable_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#ffffff"
+        android:visibility="gone"
+        draggable_view:bottom_view_id="@+id/draggable_listView"
+        draggable_view:enable_minimized_horizontal_alpha_effect="false"
+        draggable_view:top_view_height="204dip"
+        draggable_view:top_view_id="@+id/top"
+        draggable_view:top_view_margin_bottom="0dip"
+        draggable_view:top_view_margin_right="0dip"
+        draggable_view:top_view_resize="true"
+        draggable_view:top_view_x_scale_factor="4"
+        draggable_view:top_view_y_scale_factor="4">
+
+        <!-- bottom view -->
+
+        <LinearLayout
+            android:id="@+id/draggable_listView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/top"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/video_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:maxLines="2"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView_play"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/PLAY_VIEW_AD_ID" />
+
+            <!--
+                 <com.google.android.gms.ads.AdView
+                android:id="@+id/adView_big_play"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                ads:adSize="LARGE_BANNER"
+                ads:adUnitId="@string/PLAY_BIG_VIEW_AD_ID"
+                android:background="#ffffff" />
+            -->
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView_chao_big_play"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                ads:adSize="MEDIUM_RECTANGLE"
+                ads:adUnitId="@string/PLAY_CHAO_BIG_VIEW_AD_ID" />
+        </LinearLayout>
+
+        <!-- top view -->
+
+        <FrameLayout
+            android:id="@+id/top"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="#ffffff">
+
+            <LinearLayout
+                android:id="@+id/mWebLayout"
+                android:layout_width="fill_parent"
+                android:layout_height="210dp">
+
+                <WebView
+                    android:id="@+id/mWebview"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:clickable="true"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <com.google.android.youtube.player.YouTubePlayerView
+                android:id="@+id/mPlayerView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+        </FrameLayout>
+    </com.github.pedrovgs.DraggableView>
+
+</FrameLayout>

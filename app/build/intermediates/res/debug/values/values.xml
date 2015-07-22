@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="alert">#CC0000</color>
+    <color name="app_red">#E62117</color>
+    <color name="bar_color">#FF7030</color>
+    <color name="black">#FF000000</color>
+    <color name="btn_bg_selecter">#ededed</color>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_FacebookSDK/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likebutton_text_color">#FFFFFF</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_loginview_text_color">#FFFFFF</color>
+    <color name="com_facebook_picker_search_bar_background">#f5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#bcbdc2</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="confirm">#FF8800</color>
+    <color name="default_bg">#fe7030</color>
+    <color name="gray">#b3b3b3</color>
+    <color name="grey">#8b999b</color>
+    <color name="hard_grey">#e4e5e7</color>
+    <color name="info">#669900</color>
+    <color name="red">#ff0033</color>
+    <color name="semi_transparent_black">#7f000000</color>
+    <color name="soft_grey">#508b999b</color>
+    <color name="soft_white">#f0f0f0</color>
+    <color name="tab_main_text_1">#aaa</color>
+    <color name="tab_main_text_2">#74b5f7</color>
+    <color name="tab_top_text_1">#666666</color>
+    <color name="tab_top_text_2">#ff7030</color>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/tb_munion_strings.xml -->
+    <eat-comment/>
+    <color name="tb_munion_item_force">#e3e3e3</color>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="text_grey">#727a7c</color>
+    <color name="text_hard_grey">#57585a</color>
+    <color name="text_soft_grey">#aab0b0</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_default_bg">#b3fe7030</color>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_colors.xml -->
+    <eat-comment/>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/><enum name="none" value="2"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/><enum name="none" value="2"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_friend_picker_fragment"><attr format="boolean" name="multi_select"/></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="foreground_color"/><attr format="string" name="object_id"/><attr name="style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="confirm_logout"/><attr format="boolean" name="fetch_user_info"/><attr format="string" name="login_text"/><attr format="string" name="logout_text"/></declare-styleable>
+    <declare-styleable name="com_facebook_picker_fragment"><attr format="boolean" name="show_pictures"/><attr format="string" name="extra_fields"/><attr format="boolean" name="show_title_bar"/><attr format="string" name="title_text"/><attr format="string" name="done_button_text"/><attr format="reference" name="title_bar_background"/><attr format="reference" name="done_button_background"/></declare-styleable>
+    <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
+    <declare-styleable name="draggable_panel"><attr format="dimension" name="top_fragment_height"/><attr format="float" name="x_scale_factor"/><attr format="float" name="y_scale_factor"/><attr format="dimension" name="top_fragment_margin_right"/><attr format="dimension" name="top_fragment_margin_bottom"/><attr format="boolean" name="enable_horizontal_alpha_effect"/></declare-styleable>
+    <declare-styleable name="draggable_view"><attr format="reference" name="top_view_id"/><attr format="reference" name="bottom_view_id"/><attr format="dimension" name="top_view_height"/><attr format="float" name="top_view_x_scale_factor"/><attr format="float" name="top_view_y_scale_factor"/><attr format="dimension" name="top_view_margin_right"/><attr format="dimension" name="top_view_margin_bottom"/><attr format="boolean" name="enable_minimized_horizontal_alpha_effect"/><attr format="boolean" name="top_view_resize"/></declare-styleable>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ap_base_menu_shadow_offset">80dp</dimen>
+    <dimen name="ap_base_menu_shadow_width">16dp</dimen>
+    <dimen name="button_title_margin_top">10dip</dimen>
+    <dimen name="button_title_padding_left_right">10dip</dimen>
+    <dimen name="button_title_text_size">18sp</dimen>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_FacebookSDK/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likebutton_compound_drawable_padding">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_bottom">0dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_left">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_right">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_top">0dp</dimen>
+    <dimen name="com_facebook_likebutton_text_size">13.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_loginview_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_left">12dip</dimen>
+    <dimen name="com_facebook_loginview_padding_right">16dp</dimen>
+    <dimen name="com_facebook_loginview_padding_top">12dp</dimen>
+    <dimen name="com_facebook_loginview_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_picker_place_image_size">64dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="divider_height">1dip</dimen>
+    <dimen name="episode_number">38sp</dimen>
+    <dimen name="episode_padding_left_right">6dip</dimen>
+    <dimen name="episode_publish_date_margin_bottom">2dip</dimen>
+    <dimen name="episode_publish_date_margin_left">8dip</dimen>
+    <dimen name="episode_title">20sp</dimen>
+    <dimen name="episode_title_margin_left">8dip</dimen>
+    <dimen name="episode_title_margin_top">6dip</dimen>
+    <dimen name="episodes_header_padding">10dip</dimen>
+    <dimen name="episodes_header_padding_left">16dip</dimen>
+    <dimen name="grid_view_horizontal_spacing">10dip</dimen>
+    <dimen name="grid_view_margin">10dip</dimen>
+    <dimen name="grid_view_vertical_spacing">10dip</dimen>
+    <dimen name="place_renderer_height">200dip</dimen>
+    <dimen name="place_title_margin">5dip</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset">128dp</dimen>
+    <dimen name="tab_top_fontsize">15sp</dimen>
+    <dimen name="top_fragment_height">200dip</dimen>
+    <dimen name="top_fragment_margin">0dip</dimen>
+    <dimen name="tv_show_fan_art_height">202.5dip</dimen>
+    <dimen name="tv_show_margin_bottom">10dip</dimen>
+    <dimen name="tv_show_margin_left">5dip</dimen>
+    <dimen name="tv_show_title_margin_left_top">5dip</dimen>
+    <item format="float" name="x_scale_factor" type="dimen">4</item>
+    <item format="float" name="y_scale_factor" type="dimen">4</item>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_FacebookSDK/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_slidingmenu_library/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <item name="selected_view" type="id"/>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">6587000</integer>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="HOME_TOP_AD_ID">ca-app-pub-7198948904811580/9477318756</string>
+    <string name="PLAY_BIG_VIEW_AD_ID">ca-app-pub-7198948904811580/7860984755</string>
+    <string name="PLAY_CHAO_BIG_VIEW_AD_ID">ca-app-pub-7198948904811580/4767917550</string>
+    <string name="PLAY_START_CHAYESHI">ca-app-pub-7198948904811580/7721383957</string>
+    <string name="PLAY_VIEW_AD_ID">ca-app-pub-7198948904811580/3430785156</string>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/umeng_update_string.xml -->
+    <eat-comment/>
+    <string name="UMAppUpdate">App updating</string>
+    <string name="UMBreak_Network">Please make sure you are connected to internet,update failed</string>
+    <string name="UMDialog_InstallAPK">The lastest version has been downloaded, install now ?</string>
+    <string name="UMGprsCondition">(Warning: Not WIFI Condition)</string>
+    <string name="UMIgnore">Ingore this</string>
+    <string name="UMNewVersion">Latest version: </string>
+    <string name="UMNotNow">Not now</string>
+    <string name="UMTargetSize">Target size: </string>
+    <string name="UMToast_IsUpdating">Updating....</string>
+    <string name="UMUpdateCheck">2.5.0.20141210</string>
+    <string name="UMUpdateContent">Update Content</string>
+    <string name="UMUpdateNow">Update now</string>
+    <string name="UMUpdateSize">Update size: </string>
+    <string name="UMUpdateTitle">New version found</string>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="accept">Accept</string>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">Music Tube</string>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_FacebookSDK/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="des">Entertainment video playback</string>
+    <string name="facebook_app_id">662343370560391</string>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_strings.xml -->
+    <eat-comment/>
+    <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="store_picture_title">Save image</string>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/tb_munion_strings.xml -->
+    <eat-comment/>
+    <string name="tb_munion_tip_download_prefix">正在下载:</string>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/umeng_common_strings.xml -->
+    <eat-comment/>
+    <string name="umeng_common_action_cancel">Cancel</string>
+    <string name="umeng_common_action_continue">Continue</string>
+    <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_download_failed">Download Failed! </string>
+    <string name="umeng_common_download_finish">Download finished,click to install it.</string>
+    <string name="umeng_common_download_notification_prefix">Downloading: </string>
+    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_common_info_interrupt">dowload interrupted.</string>
+    <string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string>
+    <string name="umeng_common_patch_finish">Patch finished,click to install it.</string>
+    <string name="umeng_common_pause_notification_prefix">Pause: </string>
+    <string name="umeng_common_silent_download_finish">New version is ready,click to install it.</string>
+    <string name="umeng_common_start_download_notification">Download start.</string>
+    <string name="umeng_common_start_patch_notification">Patch start.</string>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="xlistview_footer_hint_normal"/>
+    <string name="xlistview_footer_hint_ready"/>
+    <string name="xlistview_header_hint_loading">loading...</string>
+    <string name="xlistview_header_hint_normal">loading...</string>
+    <string name="xlistview_header_hint_ready">loading...</string>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BlackNoBarsTheme" parent="android:Theme.Black.NoTitleBar.Fullscreen"/>
+    <style name="BlackNoTitleBarTheme" parent="android:Theme.Black.NoTitleBar"/>
+    <style name="MyDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Theme_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowAnimationStyle">@anim/dialog_exit</item>
+    </style>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values/wallet_styles.xml -->
+    <eat-comment/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Widget.Holo.ProgressBar.Large.Inverse" parent="@android:style/Widget.ProgressBar.Large"/>
+    <style name="Widget.Holo.ProgressBar.Small.Inverse" parent="@android:style/Widget.ProgressBar.Small"/>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_FacebookSDK/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/com_facebook_button_blue</item>
+        <item name="android:textColor">@color/com_facebook_loginview_text_color</item>
+        <item name="android:textSize">@dimen/com_facebook_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/com_facebook_loginview_padding_left</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="@android:style/Widget.Button">
+        <item name="android:width">205dp</item>
+        <item name="android:height">44dp</item>
+        <item name="android:background">@drawable/com_facebook_loginbutton_silver</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#4B5164</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="episode_number">
+        <item name="android:textSize">@dimen/episode_number</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+    <style name="episode_publish_date">
+        <item name="android:layout_marginLeft">@dimen/episode_publish_date_margin_left</item>
+        <item name="android:layout_marginBottom">@dimen/episode_publish_date_margin_bottom</item>
+        <item name="android:textColor">@color/text_soft_grey</item>
+    </style>
+    <style name="episode_row">
+        <item name="android:background">@color/soft_white</item>
+        <item name="android:paddingLeft">@dimen/episode_padding_left_right</item>
+        <item name="android:paddingRight">@dimen/episode_padding_left_right</item>
+    </style>
+    <style name="episode_title">
+        <item name="android:layout_marginTop">@dimen/episode_title_margin_top</item>
+        <item name="android:layout_marginLeft">@dimen/episode_title_margin_left</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/episode_title</item>
+    </style>
+    <style name="episodes_list_view">
+        <item name="android:dividerHeight">@dimen/divider_height</item>
+        <item name="android:divider">@color/soft_grey</item>
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="episodes_list_view_header">
+        <item name="android:background">@color/hard_grey</item>
+        <item name="android:textColor">@color/text_grey</item>
+        <item name="android:padding">@dimen/episodes_header_padding</item>
+        <item name="android:paddingLeft">@dimen/episodes_header_padding_left</item>
+    </style>
+    <style name="image_view">
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="main_activity_button_title">
+        <item name="android:textSize">@dimen/button_title_text_size</item>
+        <item name="android:layout_marginTop">@dimen/button_title_margin_top</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/semi_transparent_black</item>
+        <item name="android:paddingLeft">@dimen/button_title_padding_left_right</item>
+        <item name="android:paddingRight">@dimen/button_title_padding_left_right</item>
+    </style>
+    <style name="place_title">
+        <item name="android:background">@color/semi_transparent_black</item>
+        <item name="android:paddingLeft">@dimen/button_title_padding_left_right</item>
+        <item name="android:paddingRight">@dimen/button_title_padding_left_right</item>
+        <item name="android:layout_marginBottom">@dimen/place_title_margin</item>
+        <item name="android:layout_marginLeft">@dimen/place_title_margin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <!-- From: file:/D:/58/ytb_mb/app/build/intermediates/exploded-aar/ytb_mb/ytb_FacebookSDK/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+    <!-- From: file:/D:/58/ytb_mb/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="tv_show_seasons_counter">
+        <item name="android:layout_marginLeft">@dimen/tv_show_margin_left</item>
+        <item name="android:layout_marginBottom">@dimen/tv_show_margin_bottom</item>
+    </style>
+    <style name="tv_show_title">
+        <item name="android:textColor">@color/text_hard_grey</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_marginLeft">@dimen/tv_show_title_margin_left_top</item>
+    </style>
+</resources>

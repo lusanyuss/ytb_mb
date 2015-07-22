@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="des">Entertainment video playback</string>
+    <string name="facebook_app_id">662343370560391</string>
+    <!-- test -->
+    <string name="HOME_TOP_AD_ID">ca-app-pub-7198948904811580/9477318756</string>
+    <string name="PLAY_START_CHAYESHI">ca-app-pub-7198948904811580/7721383957</string>
+
+
+    <string name="PLAY_VIEW_AD_ID">ca-app-pub-7198948904811580/3430785156</string>
+    <string name="PLAY_BIG_VIEW_AD_ID">ca-app-pub-7198948904811580/7860984755</string>
+    <string name="PLAY_CHAO_BIG_VIEW_AD_ID">ca-app-pub-7198948904811580/4767917550</string>
+
+
+    <string name="app_name">Music Tube</string>
+    <string name="action_settings">Configurações</string>
+    <string name="xlistview_header_hint_normal">loading...</string>
+    <string name="xlistview_header_hint_ready">loading...</string>
+    <string name="xlistview_header_hint_loading">loading...</string>
+    <string name="xlistview_footer_hint_normal"></string>
+    <string name="xlistview_footer_hint_ready"></string>
+
+</resources>

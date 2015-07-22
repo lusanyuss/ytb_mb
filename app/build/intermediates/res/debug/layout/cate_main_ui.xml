@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:id="@+id/main_ui"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/shuping"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/bar_title"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:background="#E62117">
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="44dp"
+                    android:layout_height="44dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:padding="8dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/icon" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/imageView1"
+                    android:text="@string/app_name"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/m_ui"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/bar_title">
+
+                <com.shizhefei.view.indicator.ScrollIndicatorView
+                    android:id="@+id/guide_indicator"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@drawable/title_line"></com.shizhefei.view.indicator.ScrollIndicatorView>
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/guide_viewPager"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/guide_indicator"></android.support.v4.view.ViewPager>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hengping"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical"></LinearLayout>
+    </LinearLayout>
+
+</FrameLayout><!-- From: file:/D:/58/ytb_mb/app/src/main/res/layout/cate_main_ui.xml -->
